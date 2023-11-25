@@ -1,0 +1,12 @@
+item { 
+	name:'eyes_opened'
+	id:1
+}
+item { 
+	name:'eyes_closed'
+	id:2
+}
+item { 
+	name:'yawning'
+	id:3
+}
